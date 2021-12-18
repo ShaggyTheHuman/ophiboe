@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Jump In", "bob", [146, 113, 253]],
+		["Swing", "bosip", [146, 113, 253]],
+		["Split", "amor", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"bob",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Bob and Bosip",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
